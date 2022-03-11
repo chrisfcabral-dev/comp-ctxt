@@ -1,0 +1,26 @@
+package:
+  name: Context
+  slug: comp-context
+  description: Context Component
+  authors:
+    - author:
+        name: Eduardo Segura
+        email: zero.duh@gmail.com
+        role: developer
+  meta:
+    role: context
+    type: component
+    status: true
+    keywords:
+      - context
+      - component
+  version: 
+    name: abholos
+    number: 0.0.1
+    channel: edge
+    timestamp: null
+    active: true
+    
+dependencies:
+  
+dev-dependencies:

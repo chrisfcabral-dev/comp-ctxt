@@ -1,0 +1,12 @@
+# package directories
+node_modules
+jspm_packages
+dist
+
+# Hidden directories
+.vscode
+.serverless
+
+# Package locks
+yarn.lock
+package-lock.json
